@@ -1,5 +1,5 @@
 # first-repository
-Learning how to use GitHub for the first time
+Learning how to use GitHub for the first time!
 **Now** I am using *different* markdown elements to make my first commit
 >This is a blockquote
 #This is a heading
